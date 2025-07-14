@@ -1,0 +1,44 @@
+,Image #,Disk Read Speed,Disk Write Speed
+Western Digital black disk drive,1,0.06,3.02
+Western Digital black disk drive,2,0,4.8
+Western Digital black disk drive,3,0,2.55
+Western Digital black disk drive,4,0,3.69
+Western Digital black disk drive,5,0,2.46
+Western Digital black disk drive,6,0.03,2.21
+Western Digital black disk drive,7,0,2.49
+Western Digital black disk drive,8,0,2.89
+Western Digital black disk drive,9,0,2.31
+Western Digital black disk drive,10,0,1.79
+,,,
+Western Digital blue disk drive ,1,0,6.24
+Western Digital blue disk drive ,2,0.02,2.31
+Western Digital blue disk drive ,3,0,7.98
+Western Digital blue disk drive ,4,0,1.32
+Western Digital blue disk drive ,5,0.02,6.63
+Western Digital blue disk drive ,6,0.08,21.77
+Western Digital blue disk drive ,7,0.24,6.1
+Western Digital blue disk drive ,8,0.01,10.48
+Western Digital blue disk drive ,9,0,2.54
+Western Digital blue disk drive ,10,0,2.21
+,,,
+Fatty dove SSD ,1,0.1,6.9
+Fatty dove SSD ,2,0.05,3.78
+Fatty dove SSD ,3,0,1.58
+Fatty dove SSD ,4,0,1.26
+Fatty dove SSD ,5,0,1.49
+Fatty dove SSD ,6,0.02,9.55
+Fatty dove SSD ,7,0,1.9
+Fatty dove SSD ,8,0.03,2.15
+Fatty dove SSD ,9,0,1.38
+Fatty dove SSD ,10,0.06,8.09
+,,,
+Seagate disk drive ,1,0,6.01
+Seagate disk drive ,2,0,2.04
+Seagate disk drive ,3,0.02,2.96
+Seagate disk drive ,4,0.02,1.12
+Seagate disk drive ,5,0,0.6
+Seagate disk drive ,6,0,0.72
+Seagate disk drive ,7,0,1.04
+Seagate disk drive ,8,0,0.46
+Seagate disk drive ,9,0,0.45
+Seagate disk drive ,10,0,0.36
